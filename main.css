@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: white;
+
+}
+
+h1{
+    color:green ;
+    font-size: 45px;
+    text-align: center;
+}
+
+img{
+	width: 50%;
+	height: 50%;
+	margin-left: 23%;
+	border-radius: 10px;	
+	box-shadow: 0 0 10px 3px green;
+    margin-top: 2%
+}
+p{
+	color: green;
+    font-size: 35px;
+    text-align: center;
+}
+a{
+	 color: green;
+    font-size: 35px;
+    margin-left: 40%;
+ }
